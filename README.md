@@ -1,7 +1,8 @@
 
 
  Test du service FindPerson sur SoapUI 
-<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/06cc7e72-79fe-4380-8bc5-1813e1ef772e" />
+<img width="1100" height="577" alt="Capture d&#39;écran 2025-11-13 213049" src="https://github.com/user-attachments/assets/cf8022f7-e9fb-42ec-8cab-efa0bb53034d" />
+
 
 
 
